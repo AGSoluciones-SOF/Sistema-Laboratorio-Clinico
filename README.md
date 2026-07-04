@@ -1,6 +1,6 @@
 # Sistema para Laboratorio Clínico
 
-Sistema web básico para portafolio profesional desarrollado con **PHP, MySQL y Bootstrap**.
+Sistema web  desarrollado con **PHP, MySQL y Bootstrap**.
 
 ## Funcionalidades
 
@@ -23,32 +23,7 @@ Sistema web básico para portafolio profesional desarrollado con **PHP, MySQL y 
 - CSS3
 - JavaScript
 
-## Instalación local con XAMPP
 
-1. Copia la carpeta `sistema-laboratorio-clinico` dentro de `htdocs`.
-2. Crea una base de datos en phpMyAdmin llamada:
-
-```sql
-laboratorio_clinico
-```
-
-3. Importa el archivo:
-
-```text
-database/laboratorio_clinico.sql
-```
-
-4. Abre el proyecto en el navegador:
-
-```text
-http://localhost/sistema-laboratorio-clinico/
-```
-
-## Acceso demo
-
-```text
-Usuario: admin
-Contraseña: admin123
 ```
 
 ## Estructura
@@ -68,12 +43,5 @@ sistema-laboratorio-clinico/
 └── dashboard.php
 ```
 
-## Nota
 
-Este sistema es ideal para mostrar en GitHub como proyecto de portafolio. Puede ampliarse con:
-- PDF de resultados
-- Roles de usuario
-- Firma digital
-- Código QR en reportes
-- Envío de resultados por correo
-- API REST
+
