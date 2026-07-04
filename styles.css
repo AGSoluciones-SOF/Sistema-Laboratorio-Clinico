@@ -1,0 +1,43 @@
+:root {
+  --primary: #0d6efd;
+  --dark: #071b3a;
+}
+
+body {
+  background: #f4f7fb;
+}
+
+.login-page {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #071b3a, #0d6efd);
+  display: flex;
+  align-items: center;
+}
+
+.login-card,
+.card {
+  border: 0;
+  border-radius: 18px;
+  box-shadow: 0 10px 30px rgba(0,0,0,.08);
+}
+
+.stat-card {
+  background: white;
+  border-radius: 18px;
+  padding: 24px;
+  box-shadow: 0 10px 30px rgba(0,0,0,.08);
+}
+
+.stat-card h2 {
+  color: var(--primary);
+  font-weight: 800;
+}
+
+.table {
+  vertical-align: middle;
+}
+
+.badge-soft {
+  background: #e7f1ff;
+  color: #0d6efd;
+}
